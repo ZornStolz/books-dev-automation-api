@@ -1,0 +1,24 @@
+{
+  "name": "books-dev-automation-api",
+  "version": "1.0.0",
+  "description": "Automated API tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZornStolz/books-dev-automation-api.git"
+  },
+  "author": "Juan Vera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZornStolz/books-dev-automation-api/issues"
+  },
+  "homepage": "https://github.com/ZornStolz/books-dev-automation-api#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}
